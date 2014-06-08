@@ -1,0 +1,22 @@
+{
+  "name": "sample-spring-couchbase",
+  "version": "0.0.1",
+  "description": "Application Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiarebalbi/sample-spring-couchbase.git"
+  },
+  "keywords": [
+    "couchbase"
+  ],
+  "author": "Tiare Balbi Bonamini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiarebalbi/sample-spring-couchbase/issues"
+  },
+  "homepage": "https://github.com/tiarebalbi/sample-spring-couchbase"
+}
